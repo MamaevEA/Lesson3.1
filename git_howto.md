@@ -30,3 +30,9 @@ git commit -m “message”
 git log
 ```
 
+## Переход от одного коммита к другому
+
+```sh
+git checkout
+```
+
