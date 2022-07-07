@@ -18,3 +18,9 @@ git status
 git add
 ```
 
+## Создание коммита
+
+```sh
+git commit -m “message”
+```
+
