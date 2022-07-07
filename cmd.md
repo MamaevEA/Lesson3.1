@@ -1,9 +1,14 @@
 # Подсказка по командной строке
 
 Сенить директорию 
-Windows, MAC
+Windows
 ``` sh
-cd <folder_name>
+cd C:\<folder_name>
+```
+
+MAC, Linux
+``` sh
+cd Users/<folder_name>
 ```
 
 Очистить терминал
@@ -12,7 +17,12 @@ Windows
 cls
 ```
 
-MAC
+MAC, Linus
 ```sh
 clear
+```
+
+Создать директорию
+```sh
+mkdir new_folder
 ```
