@@ -26,3 +26,15 @@ clear
 ```sh
 mkdir new_folder
 ```
+
+Листинг директории
+
+Windows
+```sh
+dir
+```
+
+MAC, Linux
+```sh
+ls
+```
