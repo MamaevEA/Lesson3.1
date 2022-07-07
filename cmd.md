@@ -6,3 +6,13 @@ Windows, MAC
 cd <folder_name>
 ```
 
+Очистить терминал
+Windows
+```sh
+cls
+```
+
+MAC
+```sh
+clear
+```
