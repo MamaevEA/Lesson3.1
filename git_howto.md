@@ -52,3 +52,9 @@ git diff
 ```sh
 git branch
 ```
+
+## Создать новую ветку
+
+```sh
+git branch <название ветки>
+```
