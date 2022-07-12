@@ -46,3 +46,9 @@ git checkout master
 ```sh
 git diff
 ```
+
+## Удалить ветку
+
+```sh
+git branch -d
+```
