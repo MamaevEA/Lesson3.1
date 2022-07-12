@@ -47,7 +47,11 @@ git checkout master
 git diff
 ```
 
+<<<<<<< HEAD
 ## Просмотреть список бранчей
+=======
+## Просмотреть список веток в репозитории
+>>>>>>> Branch_lists
 
 ```sh
 git branch
