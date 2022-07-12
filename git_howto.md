@@ -46,3 +46,9 @@ git checkout master
 ```sh
 git diff
 ```
+
+## Переход к другой ветке
+
+```sh
+git checkout <название ветки>
+```
