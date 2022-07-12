@@ -70,3 +70,4 @@ git checkout <название ветки>
 ```sh
 git branch -d
 ```
+
