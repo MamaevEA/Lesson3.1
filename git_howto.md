@@ -64,3 +64,9 @@ git branch <название ветки>
 ```sh
 git checkout <название ветки>
 ```
+
+## Удалить ветку
+
+```sh
+git branch -d
+```
