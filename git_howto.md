@@ -46,3 +46,9 @@ git checkout master
 ```sh
 git diff
 ```
+
+## Создать новую ветку
+
+```sh
+git branch <название ветки>
+```
