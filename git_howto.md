@@ -88,3 +88,9 @@ git pull
 ```sh
 git push
 ```
+
+## Отправляем в удаленный репозиторий отдельную ветку
+
+```sh
+    git push --set-upstream origin <name branch>
+```
